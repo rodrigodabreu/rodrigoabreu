@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Abreu</h1>
-- 🔭 I’m currently working on **Unicred do Brasil**
+- 🔭 I’m currently working on Unicred do Brasil as Java Developer.
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, ReactNative**
 
