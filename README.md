@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Abreu</h1>
-- 🔭 I’m currently working on Unicred do Brasil as Java Developer.
+ 🔭 I’m currently working on Unicred do Brasil as Java Developer.
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, ReactNative**
+ 🌱 I’m currently learning **NodeJS, ReactJS, ReactNative**
 
-- 📫 How to reach me **rodrigodiasdeabreu@gmail.com**
+ 📫 How to reach me **rodrigodiasdeabreu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
