@@ -2,7 +2,7 @@
 <p align = "justify">I am Rodrigo Abreu.</p>
 <p align = "justify">Back-End Developer, Coffee lover and Sports Addicted.</p>
 
-I currently work at Unicred do Brasil [UNICRED](https://www.unicred.com.br)
+I currently work at [Unicred do Brasil](https://www.unicred.com.br)
 
 I have a bachelor's degree in **Administration** and studying **Analysis and System Development**.
 
