@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi Folks!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align = "justify"> Hi Folks!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align = "justify">I am Rodrigo Abreu</p>
 <p align = "justify">Back-End Developer, Coffee lover and Sports Addicted.</p>
 
