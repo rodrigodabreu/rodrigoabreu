@@ -2,11 +2,11 @@
 <p align = "justify">I am Rodrigo Abreu.</p>
 <p align = "justify">Back-End Developer, Coffee lover and Sports Addicted.</p>
 
-I currently work at [Unicred do Brasil](https://www.unicred.com.br)
+I currently work at [Unicred do Brasil](https://www.unicred.com.br).
 
 I have a bachelor's degree in **Administration** and studying **Analysis and System Development**.
 
-I'm learning at the moment **ReactNative, ReactJS and NodeJS**
+I'm learning at the moment **ReactNative, ReactJS and NodeJS**.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-rodabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodabreu/)](https://www.linkedin.com/in/rodabreu/)
