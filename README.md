@@ -1,5 +1,5 @@
-<h1 align = "justify"> Hi Folks, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! 
-<h2 align = "justify"> I am Rodrigo Abreu</h2> 
+<h1 align = "justify"> Hi Folks!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align = "justify">I am Rodrigo Abreu</p>
 <p align = "justify">Back-End Developer, Coffee lover and Sports Addicted.</p>
 
 I currently work at Unicred do Brasil [UNICRED](https://www.unicred.com.br)
