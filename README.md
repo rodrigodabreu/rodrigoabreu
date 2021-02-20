@@ -31,6 +31,6 @@ I'm learning at the moment **ReactNative, ReactJS and NodeJS**
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rodabreu&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodabreu&hide=TeX&layout=compact)
 
