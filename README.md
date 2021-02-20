@@ -1,7 +1,10 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rodrigo Abreu</h1>
-<p align = "justify">Back-end Developer, Coffee lover, Sport Addicted.</p>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! 
+<h1 align = "justify"> I am Rodrigo Abreu</h1> 
+<p align = "justify">Back-End Developer, Coffee lover and Sports Addicted.</p>
 
 I currently work at Unicred do Brasil [UNICRED](https://www.unicred.com.br)
+
+I have a bachelor's degree in **Administration** and studying **Analysis and System Development**.
 
 I'm learning at the moment **ReactNative, ReactJS and NodeJS**
 
