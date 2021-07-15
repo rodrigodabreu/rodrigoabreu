@@ -2,9 +2,9 @@
 <p align = "justify">I am Rodrigo Abreu.</p>
 <p align = "justify">Back-End Developer, Coffee lover and Sports Addicted.</p>
 
-I currently work at [Unicred do Brasil](https://www.unicred.com.br).
+Working at [Unicred do Brasil](https://www.unicred.com.br) as Java Developer.
 
-I have a bachelor's degree in **Administration** and studying **Analysis and System Development** at [UNISINOS](https://www.unisinos.br)).
+Bachelor's degree in **Administration** and currently studying **Analysis and System Development** at [UNISINOS](https://www.unisinos.br).
 
 At this moment I'm learning **ReactNative, ReactJS and NodeJS**.
 
