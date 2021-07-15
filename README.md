@@ -4,9 +4,9 @@
 
 I currently work at [Unicred do Brasil](https://www.unicred.com.br).
 
-I have a bachelor's degree in **Administration** and studying **Analysis and System Development**.
+I have a bachelor's degree in **Administration** and studying **Analysis and System Development** at [UNISINOS](https://www.unisinos.br)).
 
-I'm learning at the moment **ReactNative, ReactJS and NodeJS**.
+At this moment I'm learning **ReactNative, ReactJS and NodeJS**.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-rodabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodabreu/)](https://www.linkedin.com/in/rodabreu/)
