@@ -11,7 +11,6 @@ At this moment I'm learning **ReactNative, ReactJS and NodeJS**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rodabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodabreu/)](https://www.linkedin.com/in/rodabreu/)
 [![Instagram Badge](https://img.shields.io/badge/-rodabreu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rodabreu/?hl=pt-br)](https://instagram.com/rodabreu)
-
 [![Gmail Badge](https://img.shields.io/badge/-rodrigodiasdeabreu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodiasdeabreu@gmail.com)](mailto:rodrigodiasdeabreu@gmail.com)
 
 ## 🚀💻 Technologies & Tools
