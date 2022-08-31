@@ -4,7 +4,7 @@
 
 Working at [Unicred do Brasil](https://www.unicred.com.br) as Java Developer.
 
-Bachelor's degree in **Administration** and currently studying **Analysis and System Development** at [UNISINOS](https://www.unisinos.br).
+Bachelor's degree in **Administration** and **Analysis and System Development**.
 
 At this moment I'm learning **ReactNative, ReactJS and NodeJS**.
 
