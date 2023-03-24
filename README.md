@@ -5,7 +5,7 @@
 ## About me
 
 <p align="left">
-  My name is Rodrigo Abreu, I am <strong>Software Engineer</strong> at <i>Unicred do Brasil</i>.<br>
+  My name is Rodrigo Abreu, I am <strong>Software Developer</strong> at <i>Unicred do Brasil</i>.<br>
   I am graduated in Software Analysis and Development at Unisinos.
 </p>
 
