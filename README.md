@@ -21,8 +21,8 @@
 ### Contact me
 
 <p align="left">
-  💌 Feel free to send me a message: ⤵️
-  📧 contatorodabreu@gmail.com
+  💌 Feel free to send me a message: ⤵️<br>
+  📫 contatorodabreu@gmail.com
 </p>
 
 <p align="left">
