@@ -13,7 +13,7 @@
 
 <p align="left">
   <a> 🏄 Surf</a><br>
-  <a> 📺 Watch some movies and serires </a><br>
+  <a> 📺 Watch some movies and series </a><br>
   <a> 📖 Read some books</a><br>
   <a> 🎮 Play games</a>
 </p>
