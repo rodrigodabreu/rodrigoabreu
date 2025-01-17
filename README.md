@@ -41,7 +41,7 @@
 ## Skills/Tools/Learning
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Java, Spring Framework, Nodejs,  SQL Server, MySQL, MongoDB, Docker, Kubernetes, Azure Devops.
+  🦄 <strong>Skills:</strong> Java, Spring Boot Framework, Nodejs, SQL Server, Postgres, Kafka, Qlik Replicate, MongoDB, Docker, Kubernetes, Azure Devops.
 </p>
 
 <p align="left">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-📚 <strong>Learning:</strong> Typescript, NodeJS and React.
+📚 <strong>Learning:</strong> Typescript, NodeJS, React, Python and Django.
 </p>
 
 <hr />
